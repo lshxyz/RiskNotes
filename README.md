@@ -3,4 +3,4 @@
 
 操作风险管理一直以来是一个有争议的领域，无论是管理的理念、管理的具体方法到管理的具体效果。如何让操作风险管理发挥实际作用，是一个大问题。
 
-[对ORX 2016报告数据的分析](https://lshxyz.github.io/OpRisk/ORX-Report-2016.html)
+[对ORX 2016报告数据的分析](https://lshxyz.github.io/OpRisk/report)
