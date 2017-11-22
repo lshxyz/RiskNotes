@@ -31,4 +31,6 @@
 
 4. 除此之外，CPBP事件经常还会引起严重的声誉风险和附带的财务损失。
 
-所以，**对于操作风险管理和操作风险管理信息系统而言，未来需要与合规与法律事务部门的相关系统对接。**
+参考*Girling, P. (2013). Operational risk management: a complete guide to a successful operational risk framework. Wiley.*
+
+因此，**对于操作风险管理和操作风险管理信息系统而言，未来需要与合规与法律事务部门的相关系统对接。**
